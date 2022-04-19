@@ -1,0 +1,18 @@
+{
+  "name": "stakehouse-contract-templates",
+  "scripts": {
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "hardhat": "^2.9.2"
+  },
+  "dependencies": {
+    "@blockswaplab/stakehouse-contracts": "1.0.7",
+    "@blockswaplab/stakehouse-sdk": "^2.2.2",
+    "@openzeppelin/contracts": "^4.5.0",
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.4",
+    "graphql-request": "^4.2.0"
+  }
+}
